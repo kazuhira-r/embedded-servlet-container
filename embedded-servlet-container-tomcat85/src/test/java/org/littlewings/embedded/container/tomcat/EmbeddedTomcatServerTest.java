@@ -26,13 +26,6 @@ public class EmbeddedTomcatServerTest {
                         .normalize()
                         .toString();
 
-        String currentDir =
-                new File(getClass().getProtectionDomain().getCodeSource().getLocation().toURI())
-                        .toPath()
-                        .resolve("../..")
-                        .normalize()
-                        .toString();
-
         EmbeddedTomcatServer tomcat =
                 EmbeddedTomcatServerBuilder
                         .create()
