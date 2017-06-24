@@ -27,3 +27,6 @@ target
 # for Intellij IDEA
 .idea
 *.iml
+
+# for webapp test
+classes
