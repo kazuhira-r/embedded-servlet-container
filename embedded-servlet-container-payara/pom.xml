@@ -22,12 +22,12 @@
         <dependency>
             <groupId>fish.payara.extras</groupId>
             <artifactId>payara-embedded-web</artifactId>
-            <version>${payara.version}</version>
+            <version>${payara-embedded-web.version}</version>
         </dependency>
         <dependency>
             <groupId>fish.payara.api</groupId>
             <artifactId>payara-api</artifactId>
-            <version>${payara.version}</version>
+            <version>${payara-api.version}</version>
         </dependency>
 
         <!-- test libraries -->

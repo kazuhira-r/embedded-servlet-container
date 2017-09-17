@@ -27,7 +27,8 @@
 
         <!-- for library versions -->
         <jetty.version>9.4.6.v20170531</jetty.version>
-        <payara.version>4.1.2.172</payara.version>
+        <payara-embedded-web.version>4.1.2.173.0.1</payara-embedded-web.version>
+        <payara-api.version>4.1.2.173</payara-api.version>
         <tomcat85.version>8.5.20</tomcat85.version>
 
         <!-- for test library versions -->
