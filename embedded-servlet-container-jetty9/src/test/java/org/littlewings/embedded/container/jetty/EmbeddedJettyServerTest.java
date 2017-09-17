@@ -12,13 +12,13 @@ import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Paths;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-public class EmbeddedJettyServerTest {
+class EmbeddedJettyServerTest {
     @Test
-    public void test() throws URISyntaxException, IOException {
+    void test() throws URISyntaxException, IOException {
         String currentDir =
                 new File(getClass().getProtectionDomain().getCodeSource().getLocation().toURI())
                         .toPath()
