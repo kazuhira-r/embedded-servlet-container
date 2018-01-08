@@ -2,12 +2,10 @@ package org.littlewings.embedded.container.tomcat;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;
-
 import javax.servlet.ServletException;
 
 import org.apache.catalina.Context;
 import org.apache.catalina.startup.Tomcat;
-import org.apache.tomcat.util.scan.StandardJarScanner;
 import org.littlewings.embedded.container.api.AbstractEmbeddedServerBuilder;
 
 public class EmbeddedTomcatServerBuilder extends AbstractEmbeddedServerBuilder<EmbeddedTomcatServerBuilder, EmbeddedTomcatServer> {
