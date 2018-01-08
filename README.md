@@ -7,5 +7,6 @@ Mainly for testing purposes.
 current support
 
 - Tomcat 8.5
+- Tomcat 9
 - Jetty 9
 - Payara

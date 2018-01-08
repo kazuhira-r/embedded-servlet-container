@@ -11,6 +11,7 @@
     <modules>
         <module>embedded-servlet-container-api</module>
         <module>embedded-servlet-container-tomcat85</module>
+        <module>embedded-servlet-container-tomcat9</module>
         <module>embedded-servlet-container-payara</module>
         <module>embedded-servlet-container-jetty9</module>
     </modules>
@@ -30,6 +31,7 @@
         <payara-embedded-web.version>4.1.2.174</payara-embedded-web.version>
         <payara-api.version>4.1.2.174</payara-api.version>
         <tomcat85.version>8.5.24</tomcat85.version>
+        <tomcat9.version>9.0.2</tomcat9.version>
 
         <!-- for test library versions -->
         <assertj.version>3.8.0</assertj.version>
