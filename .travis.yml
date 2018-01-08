@@ -5,10 +5,10 @@ jdk:
 
 script: mvn test
 
-#cache:
-#  directories:
-#  - .autoconf
-#  - $HOME/.m2
+cache:
+  directories:
+  - .autoconf
+  - $HOME/.m2
 
 notifications:
   on_success: never
