@@ -31,7 +31,7 @@ class EmbeddedTomcatServerTest {
                         .create()
                         .startPort(8080)
                         .temporaryBaseDir(Paths.get(projectDir, "target/tomcat85"))
-                        .contextPath("/")
+                        .contextPath("")
                         .docBase(Paths.get(projectDir, "src/test/webapp"))
                         .build();
 
