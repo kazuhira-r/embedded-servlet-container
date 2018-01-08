@@ -29,7 +29,7 @@
         <jetty.version>9.4.8.v20171121</jetty.version>
         <payara-embedded-web.version>4.1.2.173.0.1</payara-embedded-web.version>
         <payara-api.version>4.1.2.173</payara-api.version>
-        <tomcat85.version>8.5.20</tomcat85.version>
+        <tomcat85.version>8.5.24</tomcat85.version>
 
         <!-- for test library versions -->
         <assertj.version>3.8.0</assertj.version>
