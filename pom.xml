@@ -31,7 +31,7 @@
         <payara-embedded-web.version>4.1.2.181</payara-embedded-web.version>
         <payara-api.version>4.1.2.181</payara-api.version>
         <tomcat85.version>8.5.28</tomcat85.version>
-        <tomcat9.version>9.0.5</tomcat9.version>
+        <tomcat9.version>9.0.6</tomcat9.version>
 
         <!-- for test library versions -->
         <assertj.version>3.9.0</assertj.version>
