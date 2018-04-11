@@ -34,7 +34,7 @@
         <tomcat9.version>9.0.6</tomcat9.version>
 
         <!-- for test library versions -->
-        <assertj.version>3.9.0</assertj.version>
+        <assertj.version>3.9.1</assertj.version>
         <junit-jupiter.version>5.1.1</junit-jupiter.version>
         <junit-platform.version>1.1.1</junit-platform.version>
     </properties>
