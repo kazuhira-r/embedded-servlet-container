@@ -27,7 +27,7 @@
         <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
 
         <!-- for library versions -->
-        <jetty.version>9.4.8.v20171121</jetty.version>
+        <jetty.version>9.4.9.v20180320</jetty.version>
         <payara-embedded-web.version>5.181</payara-embedded-web.version>
         <payara-api.version>5.181</payara-api.version>
         <tomcat85.version>8.5.30</tomcat85.version>
